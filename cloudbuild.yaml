@@ -18,7 +18,7 @@ steps:
         #git clone https://github.service.anz/das/gcp-daw-custom-container-images.git
         #echo "branch list"
         #git branch
-        git clone https://github.com/obireddy215/testrepo.git
+        git clone https://github.com/obireddy215/print-author.git
         git fetch --all
         echo "branch list"
         git branch
