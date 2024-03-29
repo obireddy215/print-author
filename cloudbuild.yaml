@@ -27,4 +27,4 @@ steps:
         # cd ..
         ls -Rltr
         pip install gitpython pyyaml requests
-        python ./main.py -p build 
+        python main.py -p build 
