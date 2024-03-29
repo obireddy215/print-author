@@ -8,13 +8,13 @@ steps:
     args:
       - -c 
       - |
-        echo "calling python code for build phase execution"
-        echo "pwd is $(pwd)"
-        echo "files"
-        #ls -Rltr
-        mkdir git_repo
-        cd git_repo
-        pwd
+        # echo "calling python code for build phase execution"
+        # echo "pwd is $(pwd)"
+        # echo "files"
+        # #ls -Rltr
+        # mkdir git_repo
+        # cd git_repo
+        # pwd
         #git clone https://github.service.anz/das/gcp-daw-custom-container-images.git
         #echo "branch list"
         #git branch
